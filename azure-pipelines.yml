@@ -24,7 +24,7 @@ steps:
   inputs:
     provider: 'azurerm'
     command: 'init'
-    backendServiceArm: 'DevOpsTraning''(08e82dee-2563-4615-885d-0f97f79c8e4b)'
+    backendServiceArm: 'DevOpsTraning'(08e82dee-2563-4615-885d-0f97f79c8e4b)'
     backendAzureRmResourceGroupName: 'rg-infraestructure'
     backendAzureRmStorageAccountName: 'stdevopsinfraestructure'
     backendAzureRmContainerName: 'terraform001'
