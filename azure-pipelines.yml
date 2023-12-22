@@ -25,3 +25,4 @@ steps:
     backendAzureRmResourceGroupName: 'rg-infraestructure'
     backendAzureRmStorageAccountName: 'stdevopsinfraestructure'
     backendAzureRmContainerName: 'terraform001'
+    command: 'plan'
