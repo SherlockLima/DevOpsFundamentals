@@ -27,6 +27,6 @@ steps:
     backendAzureRmContainerName: 'terraform001'
 - task: AzureAppServiceManage@0
   inputs:
-    azureSubscription: 'DevOpsTraning''(08e82dee-2563-4615-885d-0f97f79c8e4b)'
+    azureSubscription: 'DevOpsTraning'(08e82dee-2563-4615-885d-0f97f79c8e4b)'
     Action: 'Swap Slots'
     WebAppName: 
